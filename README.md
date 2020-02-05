@@ -20,5 +20,6 @@ pyenv activate deploy-env
 pip3 install pyYaml
 pip3 install boto3
 ```
+[Allow running docker without sudo](https://docs.docker.com/install/linux/linux-postinstall/)
 
 Done. The environment is ready to run deployment scripts
